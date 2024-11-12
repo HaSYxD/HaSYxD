@@ -13,7 +13,7 @@
 - [Descended](https://hasyxd.itch.io/descended): Gamejam 42
 
 ### 42 cursus projects :
-#### Common-core : (Finished 🎉)
+#### Common-core : (Almost finished...)
 - [cub3D](https://github.com/HaSYxD/Cub3D): A raycaster like Wolfenstein 3D
 - [ft_irc](https://github.com/HaSYxD/IRC): An IRC server
 

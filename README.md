@@ -1,12 +1,12 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🎓 Currently studying at School 42, where I'm diving deep into C and C++ programming.
-- 🎮 I have a passion for game development and spend my free time creating games.
+- Currently studying at School 42, where I'm diving deep into C/C++ and graphics programming.
+- I love game developpement and like to participate to a GameJam from time to time.
   - Check out my game projects on [itch.io](https://HaSYxD.itch.io/).
 
 ##
-<img src="https://skillicons.dev/icons?i=c,cpp,bash,git," />
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,git,vim,arch,linux" />
 
 ## Featured Repositories
 ### Personal projects :

@@ -11,7 +11,6 @@
 - [Descended](https://hasyxd.itch.io/descended): Gamejam 42
 
 ### 42 cursus projects :
-#### Common-core :
 - [cub3D](https://github.com/HaSYxD/Cub3D): A raycaster like Wolfenstein 3D
 - [Scop](https://github.com/HaSYxD/Scop): A basic OpenGL/c++ program to render 3D OBJ files
 

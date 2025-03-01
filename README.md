@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👋
-
 ## About Me
 - Currently studying at School 42, where I'm diving deep into C/C++ and graphics programming.
 - I love game developpement and like to participate to a GameJam from time to time.

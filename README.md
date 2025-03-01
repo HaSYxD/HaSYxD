@@ -13,10 +13,7 @@
 ### 42 cursus projects :
 #### Common-core :
 - [cub3D](https://github.com/HaSYxD/Cub3D): A raycaster like Wolfenstein 3D
-- [ft_irc](https://github.com/HaSYxD/IRC): An IRC server
-#### Specialization's projects :
- - [Scop](https://github.com/HaSYxD/Scop): A basic OpenGL/c++ program to render 3D OBJ files
- - [ft_vox](https://github.com/DailyWind00/ft_vox): A basic OpenGL/c++ voxel engine (..in development..)
+- [Scop](https://github.com/HaSYxD/Scop): A basic OpenGL/c++ program to render 3D OBJ files
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/anthony-liaudet-0b5a11323/)
